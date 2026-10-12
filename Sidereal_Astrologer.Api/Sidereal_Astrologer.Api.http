@@ -1,0 +1,6 @@
+@Sidereal_Astrologer.Api_HostAddress = http://localhost:5237
+
+GET {{Sidereal_Astrologer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
